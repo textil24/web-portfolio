@@ -10,6 +10,7 @@
 <a href="https://drive.google.com/file/d/1ut8e6qmxcgV0d-Yr8GG78cQhdV5TWQij/view?usp=sharing" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1ut8e6qmxcgV0d-Yr8GG78cQhdV5TWQij%2Fview%3Fusp%3Dsharing&4&0" width="180" height="180" border="0" title="QR код"></a>
 
 <h3><a href='https://drive.google.com/file/d/1Ocg8hU10sRZ1ysXjdWVO9ExKtHj9vwZ2/view?usp=sharing'>Задание 1.2. ИСР</a></h3>
+<a href="https://drive.google.com/file/d/1Ocg8hU10sRZ1ysXjdWVO9ExKtHj9vwZ2/view?usp=sharing" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1Ocg8hU10sRZ1ysXjdWVO9ExKtHj9vwZ2%2Fview%3Fusp%3Dsharing&4&0" width="180" height="180" border="0" title="QR код"></a>
 
 <h3><a href='https://drive.google.com/file/d/1V_kcyKZtMrZeFMQiEM9I56feOKUPC3v7/view?usp=sharing'>Задание 1.3. ИСР</a></h3>
 
