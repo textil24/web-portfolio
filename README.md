@@ -1,8 +1,6 @@
 <!--Автор:Журавский Матвей Антонович-->
 <h1 style='color: red'>Веб-портфолио Журавского Матвея Антонович (1 курс 2 семестр)</h1>
 
-<h3>soon..</h3>
-
 <h1>Инвариантные самостоятельные работы</h1>
 
 <h3><a href='https://drive.google.com/file/d/1ut8e6qmxcgV0d-Yr8GG78cQhdV5TWQij/view?usp=sharing'>Задание 1.1. ИСР</a></h3>
